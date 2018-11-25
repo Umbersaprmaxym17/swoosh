@@ -1,4 +1,4 @@
-package com.example.max.swoosh
+package com.example.max.swoosh.Controller
 
 import android.support.v7.app.AppCompatActivity
 import android.os.Bundle
